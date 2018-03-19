@@ -12,3 +12,8 @@ verson 1: (uploaded on 3/10/2018)
 version 2:(uploaded since 3/11/2018) - move all subroutines into pca9535.h/c files, generalize setup_pmod(), add documentation.
 
   gw002_example1_gpio_output_pmod1_hal.zip (example 1 HAL GPIO output)
+
+---------------------------------------------------------------------------------------------------------------------------------
+version 3:(uploaded since 3/19/2018) - updated pca9535.h/c files, use struct/bit field to configure IO expanders for all six pmod ports
+
+   gw002_example1_gpio_output_pmod1_hal_v2e (example 1 HAL GPIO output Type 1 All six PMOD ports)
